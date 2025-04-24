@@ -1,0 +1,58 @@
+AgeGroup,GenreName,BorrowCount
+20-11,Non-fiction,5
+20-11,Mystery,4
+20-11,Historical,4
+20-11,Fiction,3
+20-11,Romance,3
+20-11,Science Fiction,3
+20-11,Thriller,2
+21-30,Thriller,21
+21-30,Fiction,12
+21-30,Dystopian,11
+21-30,Non-fiction,11
+21-30,Biography,11
+21-30,Romance,10
+21-30,Fantasy,9
+21-30,Mystery,8
+21-30,Science Fiction,6
+21-30,Historical,5
+31-40,Science Fiction,24
+31-40,Non-fiction,21
+31-40,Biography,21
+31-40,Historical,19
+31-40,Thriller,18
+31-40,Fantasy,18
+31-40,Mystery,15
+31-40,Romance,14
+31-40,Dystopian,11
+31-40,Fiction,10
+41-50,Romance,17
+41-50,Fantasy,15
+41-50,Thriller,14
+41-50,Biography,14
+41-50,Dystopian,13
+41-50,Historical,12
+41-50,Fiction,11
+41-50,Mystery,11
+41-50,Science Fiction,10
+41-50,Non-fiction,10
+51-60,Thriller,20
+51-60,Science Fiction,15
+51-60,Historical,15
+51-60,Non-fiction,14
+51-60,Romance,10
+51-60,Fiction,10
+51-60,Fantasy,10
+51-60,Biography,9
+51-60,Mystery,7
+51-60,Dystopian,5
+60+,Fiction,70
+60+,Thriller,60
+60+,Non-fiction,57
+60+,Biography,54
+60+,Science Fiction,52
+60+,Historical,49
+60+,Romance,47
+60+,Mystery,45
+60+,Dystopian,45
+60+,Fantasy,40

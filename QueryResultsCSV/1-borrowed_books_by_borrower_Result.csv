@@ -1,0 +1,5 @@
+BookID,BookTitle,CurrentStatus,DateBorrowed,DueDate,DateReturned,ReturnStatus
+907,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",Borrowed,2/12/2025 0:00,2/19/2025 0:00,NULL,Not Returned
+705,Morbi porttitor lorem id ligula.,Borrowed,1/22/2025 0:00,1/29/2025 0:00,NULL,Not Returned
+579,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",Available,2/3/2025 0:00,2/10/2025 0:00,2/16/2025 0:00,Returned
+545,"Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",Borrowed,3/5/2025 0:00,3/12/2025 0:00,NULL,Not Returned
